@@ -1,0 +1,94 @@
+{	"name": "lip-yo-do_ver.t0109",
+	"short_name": "ly_t0109",
+	"description": "sample",
+	"icons": [
+		{
+		"src": "/test/icon/256ly.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "any"
+		},
+		{
+		"src": "/test/icon/256ly.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+		{
+		"src": "/test/icon/192ly.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "any"
+		},
+		{
+		"src": "/test/icon/192ly.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+		{
+		"src": "/test/icon/512ly.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+	    {
+		"src": "/test/icon/512ly.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+		{
+		"src": "/test/icon/72ly.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+	    {
+		"src": "/test/icon/72ly.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+		{
+		"src": "/test/icon/114ly.png",
+		"sizes": "114x114",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+	    {
+		"src": "/test/icon/114ly.png",
+		"sizes": "114x114",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+		{
+		"src": "/test/icon/120ly.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+	    {
+		"src": "/test/icon/120ly.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+		{
+		"src": "/test/icon/144ly.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+	    {
+		"src": "/test/icon/144ly.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "any"
+	    }	
+		],
+	"start_url": "/test/index.html",
+	"display": "standalone",
+	"theme_color": "#317EFB",
+	"orientation": "any", 
+	"background_color": "#0000FF"}

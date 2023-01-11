@@ -1,0 +1,82 @@
+{	"name": "lip-yo-do_ver.t0109",
+	"short_name": "ly_t0109",
+	"description": "sample",
+	"icons": [
+		{
+		"src": "/test/192ly.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "any"
+		},
+		{
+		"src": "/test/512ly.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+	    {
+		"src": "/test/72ly.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "any"
+	        },	
+		{
+		"src": "/test/120ly.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "any"
+	        },	
+		{
+		"src": "/test/144ly.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "any"
+	        },
+		{
+		"src": "/test/256ly.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "any"
+	        },
+		{
+		"src": "/test/192ly.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+		{
+		"src": "/test/512ly.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+	        {
+		"src": "/test/72ly.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+		{
+		"src": "/test/120ly.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+		{
+		"src": "/test/144ly.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },
+		{
+		"src": "/test/256ly.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "maskable"
+	        }
+		],
+	"start_url": "/test/index.html",
+	"display": "browser",
+	"theme_color": "#317EFB",
+ 	"orientation": "any",
+	"background_color": "#0000FF"}
